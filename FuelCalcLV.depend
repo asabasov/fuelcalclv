@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1565205076 source:c:\users\sabasand\documents\fuelcalclv\fuelcalc.cpp
+	"fuelcalc.h"
+	<iostream>
+	<string>
+
+1565209032 c:\users\sabasand\documents\fuelcalclv\fuelcalc.h
+	<iostream>
+
+1565208508 source:c:\users\sabasand\documents\fuelcalclv\main.cpp
+	<iostream>
+	<string>
+	"fuelcalc.h"
+	"intro.h"
+	"select.h"
+
+1565205076 c:\users\sabasand\documents\fuelcalclv\intro.h
+
+1565207942 source:c:\users\sabasand\documents\fuelcalclv\intro.cpp
+	"intro.h"
+	"select.h"
+	<string>
+	<iostream>
+
+1565207767 source:c:\users\sabasand\documents\fuelcalclv\select.cpp
+	"select.h"
+	"xFunction.h"
+	"yFunction.h"
+	"zFunction.h"
+	<iostream>
+	<string>
+
+1565205355 c:\users\sabasand\documents\fuelcalclv\select.h
+
+1565206529 c:\users\sabasand\documents\fuelcalclv\xfunction.h
+
+1565209046 source:c:\users\sabasand\documents\fuelcalclv\xfunction.cpp
+	"xFunction.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	"fuelcalc.h"
+	"select.h"
+
+1565206975 source:c:\users\sabasand\documents\fuelcalclv\yfunction.cpp
+	"yFunction.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	"fuelcalc.h"
+	"select.h"
+
+1565206948 c:\users\sabasand\documents\fuelcalclv\yfunction.h
+
+1565207072 c:\users\sabasand\documents\fuelcalclv\zfunction.h
+
+1565207090 source:c:\users\sabasand\documents\fuelcalclv\zfunction.cpp
+	"zFunction.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	"fuelcalc.h"
+	"select.h"
+
