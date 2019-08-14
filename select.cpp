@@ -10,12 +10,12 @@ using namespace std;
 select::select()
 {
     cout << "Now you have to select what will be the next step:" << endl;
-    cout << "(x) Calculate the distance" << endl;
-    cout << "(y) Calculate the fuel price" << endl;
-    cout << "(z) Calculate the consumption" << endl;
+    cout << "(x) Open fuel expense calculator" << endl;
+    cout << "(y) Open operating lease calculator" << endl;
+    cout << "(z) Open finance lease calculator" << endl;
     cout << "Press any other key to interrupt the application!" << endl;
     char selectC;
-    string version = "version 1.1";
+    string version = "version 1.2.1";
     cin >> selectC;
     switch (selectC) {
     case 'x':

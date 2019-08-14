@@ -4,13 +4,14 @@
 #include <stdlib.h>
 #include "fuelcalc.h"
 #include "select.h"
+#include "finleasecalc.h"
 
 using namespace std;
 
 zFunction::zFunction()
 {
     system("CLS");
-    cout << "zFunction started successfully!" << endl;
-    fuelcalc();
+    cout << "Finance lease calculator started successfully!" << endl;
+    finleasecalc();
     select();
 }

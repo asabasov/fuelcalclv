@@ -32,10 +32,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="finleasecalc.cpp" />
+		<Unit filename="finleasecalc.h" />
 		<Unit filename="fuelcalc.cpp" />
 		<Unit filename="fuelcalc.h" />
 		<Unit filename="intro.cpp" />
 		<Unit filename="intro.h" />
+		<Unit filename="leasecalc.cpp" />
+		<Unit filename="leasecalc.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="select.cpp" />
 		<Unit filename="select.h" />

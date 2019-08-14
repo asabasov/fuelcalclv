@@ -9,7 +9,6 @@ using namespace std;
 int main()
 {
     intro();
-    fuelcalc();
     select();
     return 0;
 }
