@@ -7,7 +7,7 @@
 1565209032 c:\users\sabasand\documents\fuelcalclv\fuelcalc.h
 	<iostream>
 
-1565701352 source:c:\users\sabasand\documents\fuelcalclv\main.cpp
+1565701582 source:c:\users\sabasand\documents\fuelcalclv\main.cpp
 	<iostream>
 	<string>
 	"fuelcalc.h"
@@ -22,11 +22,12 @@
 	<string>
 	<iostream>
 
-1565701178 source:c:\users\sabasand\documents\fuelcalclv\select.cpp
+1566570861 source:c:\users\sabasand\documents\fuelcalclv\select.cpp
 	"select.h"
 	"xFunction.h"
 	"yFunction.h"
 	"zFunction.h"
+	"cFunction.h"
 	<iostream>
 	<string>
 
@@ -76,4 +77,14 @@
 	"finleasecalc.h"
 	<iostream>
 	<string>
+
+1566570988 source:c:\users\sabasand\documents\fuelcalclv\cfunction.cpp
+	"cFunction.h"
+	"select.h"
+	"hholdcalc.h"
+	<iostream>
+
+1566570877 c:\users\sabasand\documents\fuelcalclv\cfunction.h
+
+1566571045 c:\users\sabasand\documents\fuelcalclv\hholdcalc.h
 
