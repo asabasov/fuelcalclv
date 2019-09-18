@@ -47,6 +47,10 @@
 		<Unit filename="main.cpp" />
 		<Unit filename="select.cpp" />
 		<Unit filename="select.h" />
+		<Unit filename="tFunction.cpp" />
+		<Unit filename="tFunction.h" />
+		<Unit filename="taxinc.cpp" />
+		<Unit filename="taxinc.h" />
 		<Unit filename="xFunction.cpp" />
 		<Unit filename="xFunction.h" />
 		<Unit filename="yFunction.cpp" />

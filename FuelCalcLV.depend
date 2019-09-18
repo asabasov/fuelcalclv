@@ -22,12 +22,13 @@
 	<string>
 	<iostream>
 
-1566570861 source:c:\users\sabasand\documents\fuelcalclv\select.cpp
+1568304410 source:c:\users\sabasand\documents\fuelcalclv\select.cpp
 	"select.h"
 	"xFunction.h"
 	"yFunction.h"
 	"zFunction.h"
 	"cFunction.h"
+	"tFunction.h"
 	<iostream>
 	<string>
 
@@ -87,4 +88,22 @@
 1566570877 c:\users\sabasand\documents\fuelcalclv\cfunction.h
 
 1566571045 c:\users\sabasand\documents\fuelcalclv\hholdcalc.h
+
+1567433953 source:c:\users\sabasand\documents\fuelcalclv\hholdcalc.cpp
+	"hholdcalc.h"
+	<iostream>
+
+1568304292 source:c:\users\sabasand\documents\fuelcalclv\tfunction.cpp
+	"tFunction.h"
+	<iostream>
+	"select.h"
+	"taxinc.h"
+
+1568304150 c:\users\sabasand\documents\fuelcalclv\tfunction.h
+
+1568305075 c:\users\sabasand\documents\fuelcalclv\taxinc.h
+
+1568306185 source:c:\users\sabasand\documents\fuelcalclv\taxinc.cpp
+	"taxinc.h"
+	<iostream>
 

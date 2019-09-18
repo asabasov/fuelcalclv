@@ -3,6 +3,7 @@
 #include "yFunction.h"
 #include "zFunction.h"
 #include "cFunction.h"
+#include "tFunction.h"
 #include <iostream>
 #include <string>
 
@@ -15,6 +16,7 @@ select::select()
     cout << "(y) Open operating lease calculator" << endl;
     cout << "(z) Open finance lease calculator" << endl;
     cout << "(c) Open monthly expenses calculator" << endl;
+    cout << "(t) Open taxi income calculator" << endl;
     cout << "Press any other key to interrupt the application!" << endl;
     char selectC;
     string version = "version 1.2.1";
@@ -34,6 +36,9 @@ select::select()
     case 'c':
         cout << "Calling the function!" << endl;
         cFunction();
+    case 't':
+        cout << "Calling the function!" << endl;
+        tFunction();
     default:
         cout << "Thank you for using FuelCalcLV " << version << "!" << endl;
     }
